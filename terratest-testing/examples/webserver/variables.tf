@@ -1,0 +1,3 @@
+variable "servername" {
+  type = string
+}

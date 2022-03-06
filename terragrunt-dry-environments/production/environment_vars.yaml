@@ -1,0 +1,7 @@
+snet_address: ["10.0.0.0/24"]
+vnet_address: ["10.0.0.0/16"]
+servername: "calabserver"
+rgname: "cal-1455-7c"
+vm_size: "Basic_A1"
+admin_username: "terradmin"
+admin_password: "P@ssw0rdP@SSW0rd"
